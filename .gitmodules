@@ -1,0 +1,9 @@
+[submodule "bookServiceFrontEnd"]
+	path = bookServiceFrontEnd
+	url = https://github.com/stonesan101/bookServicesFrontEnd
+[submodule "bookServicesFrontEnd"]
+	path = bookServicesFrontEnd
+	url = https://github.com/stonesan101/bookServicesFrontEnd
+[submodule "ericSimpleService"]
+	path = ericSimpleService
+	url = https://github.com/stonesan101/ericSimpleService
